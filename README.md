@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/JordanW1atWIT/swe-ci-demo/actions/workflows/maven.yml/badge.svg)](https://github.com/JordanW1atWIT/swe-ci-demo/actions/workflows/maven.yml)
 # swe-ci-demo
 This is the code template for Fizz Buzz game using Maven Java project to demo GitHub Actions CI workflow.
 
